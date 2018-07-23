@@ -114,5 +114,9 @@ Please refer to the above arguments.
 - This project borrowed some code from [yenchenlin](https://github.com/yenchenlin/pix2pix-tensorflow) and [pix2pix official websit](https://phillipi.github.io/pix2pix/)
 - Some readme formatting was borrowed from [Logan Engstrom](https://github.com/lengstrom/fast-style-transfer)
 
-### License
+## License
 Copyright (c) 2018 Cheng-Bin Jin. Contact me for commercial use (or rather any use that is not academic research) (email: sbkim0407@gmail.com). Free for research use, as long as proper attribution is given and this copyright notice is retained.
+
+## Related Projects
+- [Vanilla GAN](https://github.com/ChengBinJin/VanillaGAN-TensorFlow)
+- [DCGAN](https://github.com/ChengBinJin/DCGAN-TensorFlow)
