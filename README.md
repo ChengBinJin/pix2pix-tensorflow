@@ -120,3 +120,4 @@ Copyright (c) 2018 Cheng-Bin Jin. Contact me for commercial use (or rather any u
 ## Related Projects
 - [Vanilla GAN](https://github.com/ChengBinJin/VanillaGAN-TensorFlow)
 - [DCGAN](https://github.com/ChengBinJin/DCGAN-TensorFlow)
+- [WGAN](https://github.com/ChengBinJin/WGAN-TensorFlow)
