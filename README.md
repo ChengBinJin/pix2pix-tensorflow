@@ -6,7 +6,7 @@ This repository is a Tensorflow implementation of the Isola's [Image-to-Image Tr
 </p>
 
 ## Requirements
-- tensorflow 1.18.0
+- tensorflow 1.8.0
 - python 3.5.3  
 - numpy 1.14.2  
 - matplotlib 2.0.2  
