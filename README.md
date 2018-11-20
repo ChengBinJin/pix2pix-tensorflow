@@ -118,7 +118,4 @@ Please refer to the above arguments.
 Copyright (c) 2018 Cheng-Bin Jin. Contact me for commercial use (or rather any use that is not academic research) (email: sbkim0407@gmail.com). Free for research use, as long as proper attribution is given and this copyright notice is retained.
 
 ## Related Projects
-- [Vanilla GAN](https://github.com/ChengBinJin/VanillaGAN-TensorFlow)
-- [DCGAN](https://github.com/ChengBinJin/DCGAN-TensorFlow)
-- [WGAN](https://github.com/ChengBinJin/WGAN-TensorFlow)
 - [DiscoGAN](https://github.com/ChengBinJin/DiscoGAN-TensorFlow)
